@@ -1,5 +1,5 @@
 {
-    "name": "edrichard/symfony-grumphp",
+    "name": "sci3ma/symfony-grumphp",
     "description": "Configured GrumPHP with bunch of tools for static code analysis Symfony Framework",
     "keywords": ["php", "symfony", "grumphp", "phpcs", "phpmd", "phpstan", "phpunit", "code quality", "standards"],
     "license": "MIT",
@@ -39,9 +39,9 @@
         }
     },
     "support": {
-        "issues": "https://github.com/edrichard/symfony-grumphp/issues"
+        "issues": "https://github.com/sci3ma/symfony-grumphp/issues"
     },
-    "homepage": "https://github.com/edrichard/symfony-grumphp",
+    "homepage": "https://github.com/sci3ma/symfony-grumphp",
     "config": {
         "sort-packages": true
     },
